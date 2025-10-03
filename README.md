@@ -5,6 +5,10 @@ With easy-to-use commands, you can obtain the Mace, reload configurations, and e
 
 ✨ Features
 
+NOT: 
+    GurzPlugin.rar = SourceCode
+    newgurz.rar = Pack File
+
 Adds the Mace item to older versions (1.17–1.20.4).
 
 Customizable via config.yml.
